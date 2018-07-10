@@ -44,3 +44,12 @@ Header1 | Header2
 one| 1
 two| 2
 three| 3
+
+## __This is a bold header__
+_but with content in italics_
+
+## Trying Something New
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+Oh hey, _thaaaat's_ how you add an image. I remember __this__ from the Khan Academy classes!
